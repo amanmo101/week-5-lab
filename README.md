@@ -1,6 +1,6 @@
 # Week 5 Lab
 
-This is the repository for Week 5 Lab: Crypto-Hustle
+This is the repository for Week 5 Lab: Crypto-Hustle-Lite
 
 Demo: https://www.loom.com/share/a4323752e33c4029870654038dcc50e9
 
